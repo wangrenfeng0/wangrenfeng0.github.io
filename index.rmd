@@ -6,4 +6,5 @@ output: html_document
 ---
 
 This is a website under construction.       
-I'm listing what I did.     
+The other tabs represent the work and analyses that I have completed. Please feel free to check them out!    
+
