@@ -8,5 +8,5 @@ output: html_document
 ###My hobbies are data analysis and playing console games in my spare time.
 #### I currently stay at home with my daughter and wife. At the same time, I'm taking Data Science master program in SMU.
 ##### I got my bachelor degree at Huazhong University of Sci&Tech and master degree at Syracuse University. I'm pursuing my second master in Data Science at SMU now.
-###### ![My family photo](C:\Users\wrf0\Documents\Immigration Doc & Chloe\Chloe and Family\family\A06I9289.jpg)
+###### ![My family photo](C:\Users\wrf0\Documents\SMU Data Science Program\Doing Data Science\Week 12 Web pages and R Shiny\Introduction of myself\Introduction)
 
