@@ -6,4 +6,4 @@ output: html_document
 ---
 
 This is a website under construction.       
-Please feel freel to browse it and check what I did before.     
+I'm listing what I did.     
