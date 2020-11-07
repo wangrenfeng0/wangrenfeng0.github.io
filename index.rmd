@@ -8,3 +8,4 @@ output: html_document
 This is a website under construction.       
 The other tabs represent the work and analyses that I have completed. Please feel free to check them out!    
 
+<a href='https://wangrenfeng.shinyapps.io/Beer_analysis/'> Beer Analysis App</a>
